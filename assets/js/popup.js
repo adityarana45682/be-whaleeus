@@ -191,7 +191,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'https://cricketsuperplay.live/?utm_campaign=oDf0p84QFq&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
+        setTimeout(() => { window.location.href = 'https://reffpa.com/L?tag=d_4181742m_134454c__[]general[]_d161939_l237203_direct_link&site=4181742&ad=134454'; }, 600);
       }, 5000);
     }, 300); // "few milliseconds" before starting the spinner
   }
